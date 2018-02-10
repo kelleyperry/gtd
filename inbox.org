@@ -6,7 +6,7 @@
 *** It's what you become that makes you valuable.
 *** Dont set your goals too low.
 *** Don't compromise, don't sell out.
-**** Questons:
+**** Questions:
 ***** What do I want within the next one to ten years 
 ****** 50 things/long range goals
 ******* what do i want to do, be, see, have, go, share
@@ -18,6 +18,15 @@
 ****** write down: describe each goal, 1 paragraph. Why is it importnt? Talk myself into it? talk myself out of it? Aproximately 4 goals for 1, 3, 5, 10. 
 ***** Short range goals.
 ****** All the little things I would like to have or accomplish within the next year.
-****** Every week check off at least one thing on my list of goals.
-* Miscellaneous
+****** Every week check off at least one thing on my list of goals.    
+** Authors
+*** Randy Gage
+*** Larry Winget
+*** Jim Rohn
+**** DONE The Art of Exceptional Living
+CLOSED: [2018-02-09 Fri 19:34]
+*** Gary Vaynerchuck
+*** Sean O'Shea
+* Miscelleanous
+#+STARTUP: indent
 #+STARTUP: hidestars
