@@ -1,5 +1,5 @@
 * Tasks
-** Goals
+** Setting Goals
 *** Set  a goal to be a millionaire: Why? FOR WHAT it will MAKE of you to achieve IT.
 *** Set the kind of goals that will make something of you to achieve them.
 *** What am I becoming here?
@@ -18,7 +18,63 @@
 ****** write down: describe each goal, 1 paragraph. Why is it importnt? Talk myself into it? talk myself out of it? Aproximately 4 goals for 1, 3, 5, 10. 
 ***** Short range goals.
 ****** All the little things I would like to have or accomplish within the next year.
-****** Every week check off at least one thing on my list of goals.    
+****** Every week check off at least one thing on my list of goals.
+** Goals
+*** Do
+**** Find a passion that makes me rich                          :one_year:
+**** Work for myself                                            :one_year:
+**** Travel                                                     :one_year:
+**** Live without addictions                                 :three_years:
+**** Live without fear of financial insecurity                :five_years:
+**** Live on the california coast                             :five_years:
+**** Live on the Oregaon coast                                :five_years:
+**** Die with millions                                         :ten_years:
+**** Retire by the time I am 65.                               :ten_years:
+**** Have passive income that lets me do whatever I want.      :ten_years:
+*** Be
+**** Happy
+**** At Peace
+**** Wealthy                                                         
+**** Healthy
+**** Wise
+**** Multi Millionaire
+**** Financially Free
+**** 100 years old and healthy
+**** In Love
+**** 
+*** See
+**** The Pyramids
+**** The Mona Lisa
+**** The Louvre
+**** The Rockies
+**** 
+*** Have
+**** A business that excites and inspires me
+**** 350 Million dollars by the time I am 60
+**** A land Rover
+**** A yacht
+**** A large house in Carmel
+**** A large house in La Jolla
+**** A vacation home in the Carribean. Where in the carribean?
+**** A vacation home in Europe
+**** A winter home in Scottsdale
+**** A summer home in Oregon
+**** A cabin by a lake
+*** Go
+**** London
+**** New York
+**** Paris
+**** Spain
+**** Italy
+**** Australia
+**** New Zealand
+**** Hawaii
+**** Patagonia
+**** Egypt
+**** 
+*** Share
+**** Charity
+**** Family
 ** Authors
 *** Randy Gage
 *** Larry Winget
@@ -26,7 +82,9 @@
 **** DONE The Art of Exceptional Living
 CLOSED: [2018-02-09 Fri 19:34]
 *** Gary Vaynerchuck
-*** Sean O'Shea
+*** Sean O'Shea 
+
 * Miscelleanous
 #+STARTUP: indent
 #+STARTUP: hidestars
+#+TAGS: one_year three_years five_years ten_years 
