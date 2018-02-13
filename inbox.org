@@ -18,7 +18,7 @@
 ****** write down: describe each goal, 1 paragraph. Why is it importnt? Talk myself into it? talk myself out of it? Aproximately 4 goals for 1, 3, 5, 10. 
 ***** Short range goals.
 ****** All the little things I would like to have or accomplish within the next year.
-****** Every week check off at least one thing on my list of goals.
+****** Every week check off at least one thing on my list of goals.    
 ** Goals
 *** Do
 **** Find a passion that makes me rich                          :one_year:
@@ -82,8 +82,7 @@
 **** DONE The Art of Exceptional Living
 CLOSED: [2018-02-09 Fri 19:34]
 *** Gary Vaynerchuck
-*** Sean O'Shea 
-
+*** Sean O'Shea
 * Miscelleanous
 #+STARTUP: indent
 #+STARTUP: hidestars
