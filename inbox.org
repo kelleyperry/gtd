@@ -21,6 +21,15 @@
 ****** Every week check off at least one thing on my list of goals.    
 ** Goals
 *** Do
+**** Find new employment                                       :two_weeks:
+**** Quit CSAA                                                 :two_weeks:
+**** Find a new source of income.                               :one_year:
+**** Play guitar                                                :one_year:
+**** Play in a band                                             :one_year:
+**** Play live                                                     :one_year:
+**** Meditation                                                 :one_year:
+**** Prayer                                                     :one_year:
+**** Journaling                                                 :one_year:
 **** Find a passion that makes me rich                          :one_year:
 **** Work for myself                                            :one_year:
 **** Travel                                                     :one_year:
@@ -32,6 +41,7 @@
 **** Retire by the time I am 65.                               :ten_years:
 **** Have passive income that lets me do whatever I want.      :ten_years:
 *** Be
+**** Sober
 **** Happy
 **** At Peace
 **** Wealthy                                                         
@@ -82,7 +92,7 @@
 **** DONE The Art of Exceptional Living
 CLOSED: [2018-02-09 Fri 19:34]
 *** Gary Vaynerchuck
-*** Sean O'Shea
+*** Sean O'Shea 
 * Miscelleanous
 #+STARTUP: indent
 #+STARTUP: hidestars
