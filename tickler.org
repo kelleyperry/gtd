@@ -8,6 +8,8 @@
  [2020-01-18 Sat 09:58]
 ** TODO eat more veggies                                            :things:
 ** TODO drink more water
+** gonna do this in the futures 
+ [2020-01-11 Sat 19:55]
 * Miscelleanous
 #+STARTUP: indent
 #+STARTUP: hidestars
