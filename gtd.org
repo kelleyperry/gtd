@@ -1,3 +1,6 @@
 * GTD
-** TODO eat more veggies
-** TODO drink more water
+** Home Improvement
+* Miscelleanous
+#+STARTUP: indent
+#+STARTUP: hidestars
+#+TAGS: one_year three_years five_years ten_years 

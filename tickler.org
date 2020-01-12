@@ -4,4 +4,11 @@
 **** wall
 ***** Measurements
 ****** 10X30X61X43X7
-
+** going to do this sometime in the future, i will be reminded 
+ [2020-01-18 Sat 09:58]
+** TODO eat more veggies                                            :things:
+** TODO drink more water
+* Miscelleanous
+#+STARTUP: indent
+#+STARTUP: hidestars
+#+TAGS: one_year three_years five_years ten
